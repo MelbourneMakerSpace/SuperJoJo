@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="SuperJoJo (PLA)" version="2018-03-27 21:13:11" app="S3D-Software 4.0.0">
+<profile name="SuperJoJo (PLA)" version="2018-03-29 18:56:57" app="S3D-Software 4.0.0">
   <baseProfile>Default</baseProfile>
   <printMaterial>PLA</printMaterial>
   <printQuality>Medium</printQuality>
@@ -156,7 +156,7 @@
   <celebration>0</celebration>
   <celebrationSong>Random Song</celebrationSong>
   <postProcessing></postProcessing>
-  <defaultSpeed>2700</defaultSpeed>
+  <defaultSpeed>3200</defaultSpeed>
   <outlineUnderspeed>0.5</outlineUnderspeed>
   <solidInfillUnderspeed>0.8</solidInfillUnderspeed>
   <supportUnderspeed>0.8</supportUnderspeed>
